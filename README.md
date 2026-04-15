@@ -2,7 +2,7 @@
 
 ## Bla Bla Bla
 
-<div data-eacf=1.3A1.2>
+<eacf-tag data-eacf=1.3A1.2>
 ### A
 
 Lorem ipsum
@@ -10,7 +10,7 @@ Lorem ipsum
 ### B
 
 Dolor sit amet
-</span>
+</eacf-tag>
 
 ## Blo Blo Blo
 
